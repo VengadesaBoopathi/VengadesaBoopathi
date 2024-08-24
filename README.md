@@ -20,15 +20,12 @@ Full Stack Java development, and solving complex problems. I've consistently mai
 ## 🏆 Achievements
 
 - Received the Sankaranarayan Commemorative Award for Meritorious Student in 2023-24
-- Solved 280+ problems on LeetCode with a maximum contest rating of 1475
-- Won first prize in Code-War Hackathon at TetronX', a National-Level technical symposium
+- Solved 300+ problems on LeetCode with a maximum contest rating of 1475
 
 ## 💻 Skills
 
-- **Programming Languages**: Java, Python, C++, C, C#, JavaScript
-- **Technologies**: Spring Boot, PostgreSQL, RestAPI, HTML, CSS, JavaScript, Android development
+- **Technologies**: React, Spring Boot, PostgreSQL, JPA, RestAPI, HTML, CSS, JavaScript, Android development
 - **Machine Learning**: PyTorch, Scikit-learn, NumPy, Pandas, Matplotlib
-- **Development Tools**: Kaggle, Android Studio, Postman, Git, VS Code, MySQL
 
 ## 🔗 Links
 
